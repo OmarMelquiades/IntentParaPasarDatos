@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Pasar Datos</string>
+    <string name="txtTexto">Ingresa el texto</string>
+    <string name="btnEnviar">Enviar</string>
+</resources>
